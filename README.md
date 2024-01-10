@@ -22,7 +22,7 @@ To get started with the Employee Management System, follow these steps:
 
 Clone the repository to your local machine.
 
-git clone https://github.com/IngyEl-Sakhawy/javaScrictLab5.git
+git clone https://github.com/IngyEl-Sakhawy/javaScriptLab5.git
 
 
 ## Usage
