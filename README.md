@@ -31,9 +31,13 @@ Enter the office name when prompted.
 Choose from the menu options:
 
 Press 1 to add a new employee.
+
 Press 2 to check employee details.
+
 Press 3 to fire an employee.
+
 Press 4 to quit the application.
+
 Follow the prompts to input necessary details for each operation.
 
 ## Classes
