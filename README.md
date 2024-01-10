@@ -1,5 +1,6 @@
 # Employee Management System
-This Employee Management System is a simple command-line interface (CLI) application built in JavaScript to manage employees in an office. It allows users to add new employees, check employee details, and fire employees.
+This Employee Management System is a simple command-line interface (CLI) application built in JavaScript to manage employees in an office. 
+It allows users to add new employees, check employee details, and fire employees.
 
 ## Table of Contents
 
